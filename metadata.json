@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Bloom",
+  "description": "Order beautiful custom bouquets designed by AI for special occasions with interactive same-day drone or courier delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
